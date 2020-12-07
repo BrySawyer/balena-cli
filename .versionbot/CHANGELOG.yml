@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'errors: Add expected errors for device deactivation'
+      hash: d0328c5df83a3d2cb150b1cdcd048fb42f09340f
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+        signed-off-by: Marios Balamatsias <mbalamatsias@gmail.com>
+      author: Marios Balamatsias
+      nested: []
+  version: 12.30.2
+  date: 2020-12-07T17:33:41.922Z
+- commits:
     - subject: Standardize boolean flag typing
       hash: 19fab403987edef486956cbe3820c0dbb89a84a3
       body: ''
