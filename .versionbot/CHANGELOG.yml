@@ -1,4 +1,18 @@
 - commits:
+    - subject: Improve error message for issues to access balena settings
+      hash: 93579007bc65215bcdec0529317e1b34fc791d5e
+      body: |
+        Update balena-settings-storage from 6.0.1 to 7.0.0
+      footer:
+        Resolves: '#1667'
+        resolves: '#1667'
+        Change-type: minor
+        change-type: minor
+      author: josecoelho
+      nested: []
+  version: 12.31.0
+  date: 2020-12-08T22:09:05.934Z
+- commits:
     - subject: Remove remaining v12 switches
       hash: 3edf7a038fccc8c1ddf5d09f29c37194a1104c84
       body: ''
